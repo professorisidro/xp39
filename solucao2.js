@@ -1,6 +1,6 @@
-const listaProdutos2 = require('./lista')
+const listaProdutos = require('./lista')
 
-console.log(listaProdutos2);
+console.log(listaProdutos);
 
 function exercicio1(){
 
